@@ -9,7 +9,7 @@
 
 💼 Frontend Developer at **EduvanceAI**, building scalable products using **React**, **Next.js**, **Tailwind**, and **ShadCN**.  
 🚀 Focused on crafting performant, secure, and accessible web experiences.  
-📈 Previously delivered products serving **1500+ active users**, improving performance by **40%**.  
+📈 Previously delivered products serving **10k+ active users**, improving performance by **40%**.  
 🧩 Passionate about **component-driven development**, **frontend architecture**, and **auth systems**.  
 🤝 Love collaborating on open source and mentoring aspiring developers.  
 🎯 Currently exploring **TypeScript**, **frontend security**, and **AI-integrated UIs**.  
