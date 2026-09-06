@@ -1,18 +1,18 @@
 <!-- 🌐 Aniket Gawade | Frontend Developer -->
 
 <h1 align="center">I'm Aniket Gawade 👋</h1>
-<h3 align="center">Frontend Developer | React.js • Next.js </h3>
+<h3 align="center">Software Developer | React.js • Next.js • TypeScript</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-💼 Frontend Developer at **EduvanceAI**, building scalable products using **React**, **Next.js**, **Tailwind**, and **ShadCN**.  
+💼 Software Engineer at **EduvanceAI**, building AI-powered SaaS products using **React**, **Next.js**, **TypeScript**, **Tailwind**, and **ShadCN**.  
+🤖 Build ChatGPT-style conversational interfaces integrated with multiple LLM providers (GPT-4o, Claude, LLaMA).  
 🚀 Focused on crafting performant, secure, and accessible web experiences.  
-📈 Previously delivered products serving **10k+ active users**, improving performance by **40%**.  
+📈 Improved page load performance by **30%** and accelerated feature delivery by **35%** through reusable component architecture.  
 🧩 Passionate about **component-driven development**, **frontend architecture**, and **auth systems**.  
-🤝 Love collaborating on open source and mentoring aspiring developers.  
-🎯 Currently exploring **TypeScript**, **frontend security**, and **AI-integrated UIs**.  
+🎯 Working with **TypeScript**, **AI-integrated UIs**, and **role-based access systems**.  
 📫 Reach me via social links below!  
 
 ---
@@ -27,11 +27,12 @@
 
 ## 🧠 Recent Highlights
 
-- ⚡ Architected **secure, scalable UIs** at EduvanceAI for LMS and Chatbot platforms.  
-- 🔒 Integrated **Single Sign-On (SSO)** for seamless multi-platform authentication.  
-- 🚀 Boosted **frontend performance by 40%** via code-splitting, lazy loading & API optimization.  
-- 🧩 Designed **reusable UI libraries** using ShadCN + MUI to improve delivery speed by 20%.  
-- 🧠 Advocated for clean code, efficient state management, and modern React patterns.  
+- ⚡ Architected **secure, scalable UIs** at EduvanceAI for LMS and AI chatbot platforms.  
+- 🤖 Built the frontend for **20+ AI chatbot modules** across Sales, Finance, and Business functions.  
+- 🔒 Integrated **OAuth authentication and role-based access control** across 50+ REST APIs.  
+- 🚀 Boosted **frontend performance by 30%** via code-splitting, lazy loading & API optimization.  
+- 🧩 Designed **reusable UI libraries** using ShadCN + MUI, accelerating delivery speed by **35%**.  
+- 🧠 Advocated for clean code, efficient state management, and modern React patterns.   
 
 ---
 
