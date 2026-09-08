@@ -1,13 +1,13 @@
 <!-- 🌐 Aniket Gawade | Frontend Developer -->
 
 <h1 align="center">I'm Aniket Gawade 👋</h1>
-<h3 align="center">Software Developer | React.js • Next.js • TypeScript</h3>
+<h3 align="center">Software Developer | React.js • Node.js • TypeScript</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-💼 Software Engineer at **EduvanceAI**, building AI-powered SaaS products using **React**, **Next.js**, **TypeScript**, **Tailwind**, and **ShadCN**.  
+💼 Software Engineer at **EduvanceAI**, building AI-powered SaaS products using **React**, **Node.js**, **TypeScript**, **Tailwind**, and **ShadCN**.  
 🤖 Build ChatGPT-style conversational interfaces integrated with multiple LLM providers (GPT-4o, Claude, LLaMA).  
 🚀 Focused on crafting performant, secure, and accessible web experiences.  
 📈 Improved page load performance by **30%** and accelerated feature delivery by **35%** through reusable component architecture.  
